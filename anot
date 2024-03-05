@@ -1,0 +1,33 @@
+Formato proprietário e aberto
+Por que o governo usa, as vezes, formato proprietário para divulgaçao de dados publicos?
+- para restringir acesso
+- o gerador é específico (não precisa, mas justificam através disso)
+- por necessidade técnica 
+
+Provedor de Aplicação de Internet (PAI) é um termo que descreve qualquer empresa, 
+organização ou pessoa natural que, de forma profissional ou amadora, 
+forneça um conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado à internet,
+ não importando se os objetivos são econômicos.
+
+
+Conjunto de formatos abertos para documentos de escritório: ODF
+Movimento software livre: arquivos abertos e sistemas abertos e gratuitos --> principal expoente é o LINUX. 
+Assim, você não concentraria na mao de empresas privadas, como Microsoft, acabando com o monopolio. 
+
+ODT é um arquivo aberto. Os arquivos OpenDocument (. odt) são compatíveis com os aplicativos Word e de software livre,
+como OpenOffice e LibreOffice, mas você pode ver diferenças de formatação e alguns recursos do Word não estão disponíveis em arquivos.
+
+Existia um FORMATO DOC que era proprietário; binário; era complexo, mas era difícil de outras empresas
+ditarem, porque era muito complexo. Assim, a resposta foi o ODT que é um arquivo XML, arquivo aberto e simples.
+
+O DOCX é complicadissimo, é aberto, responsaevl por manter as regalias da Microsoft até hoje.
+
+A importancia do movimento SOFTWARE LIVRES --> o mercado mudou no jeito de fazer as coisas.
+A motivaçao da concorrencia foi comercial E ESTRATEGICA. 
+
+XML é uma linguagem de marcação para identificar as coisas. 
+
+O DOC é um formato binário, o formato ODT é XML, são arquivos de texto interno e a formatação do texto é toda feita com XML. 
+O formato DOC é do antigo do WORD. o DOCX é aberto, enquanto o DOC é proprietário.
+O XML voce pode criar as marcações e dizer o que significa, no HTML  a linguagem já tá dada. 
+
